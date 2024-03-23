@@ -1,4 +1,4 @@
-package br.com.study;
+package br.com.estudo;
 
 public class Universe {
    public static void main(String[] args) {

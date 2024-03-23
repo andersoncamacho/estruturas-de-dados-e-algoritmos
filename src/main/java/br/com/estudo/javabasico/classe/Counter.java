@@ -1,4 +1,4 @@
-package br.com.study.basicjavastructure;
+package br.com.estudo.javabasico.classe;
 /*
 ## **Como as classes são declaradas**
 Resumindo, um **objeto** é uma combinação específica de dados e dos métodos capazes de processar e comunicar esses dados.
