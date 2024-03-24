@@ -4,7 +4,7 @@ public class Counter {
     //uma simples variável de instância inteira
     protected int count;
     //O construtor default para um objeto Counter
-    Counter() {
+    public Counter() {
         count = 0;
     }
     //Um método de acesso para recuperar o valor corrente do contador
